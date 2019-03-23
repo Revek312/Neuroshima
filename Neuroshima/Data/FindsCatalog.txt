@@ -1,0 +1,902 @@
+# Akcesoria do sprzatania 
+3 Szczotka do czyszczenia (1g)
+5 Miotla (1g)
+7 Plastikowe wiadro (1g)
+16 Odkurzacz (10g) [U]
+18 Miska (1g)
+20 Srodki czystosci (*)
+# Akcesoria kuchenne 
+2 Plastikowa miska (3g)
+3 Sztucce (2g)
+4 Porcelanowa miska (2g)
+5 Porcelanowy kubek (2g)
+6 Porcelanowy talerz (1g)
+7 Sloik z zakretka (1g)
+8 Szklanka (1g)
+9 Plastikowy pojemnik na zywnosc (4g)
+10 Worki foliowe na smieci (k20 sztuk) (1g/10szt)
+11 Zmiotek i lopatka (1g) Aluminiowy termos (20g)
+12 Kieliszek (1g)
+13 Metalowa miska (8g)
+14 Metalowa taca (3g)
+15 Metalowy kubek (6g)
+16 Nozyce do miesa (10g)
+17 Noz kuchenny (5g)
+18 Ozdobna filizanka (10g)
+19 Paczka zapalek (5g) [W]
+20 Patelnia (5g)
+# Akcesoria remontowe 
+2 Kilof (10g)
+3 Pistolet na bolce (20g) [UW]
+4 lopata (10g)
+5 Spawarka (40g) [UW]
+6 Mlot (10g)
+7 Taczka (5g)
+8 Wiadro metalowe (2g)
+9 Wiertarka (20g) [UW]
+10 Obcegi (10g)
+11 Zamykana puszka (2g) Cement w worku (k20 kg) (3g/kg)
+12 Farba w puszce (5g) [W]
+13 Pistolet lakierniczy (20g) [UW]
+14 Skladana aluminiowa drabina (10g)
+15 Szlifierka reczna (15g) [UW]
+16 Mocne rekawice robocze (5g)
+17 Mocne ubranie robocze (5g)
+18 Narzedzia domowe (*)
+19 Paczka wkretow i gwozdzi (5g)
+20 Pedzel do emulsji (1g)
+# Akcesoria toaletowe 
+2 Pasta do zebow (5g)
+3 Perfum (5g)
+4 Plyn do kapieli (2g)
+5 Pumeks (1g)
+6 Szampon (3g)
+7 Szczoteczka do zebow (2g)
+8 Kaczuszka do kapieli (1g)
+9 Krem do golenia (2g)
+10 Krem do twarzy (1g) Rzuc 1k20:
+11 Maszynka do golenia (5g)
+12 Mydlo (3g)
+13 Mydlo w plynie (3g)
+14 Odswiezacz powietrza (3g)
+15 Zarowka (*) Czysty recznik (1g)
+16 Dezodorant (5g)
+17 Dozownik z mydlem (3g)
+18 Farba do wlosow (2g)
+19 Gabeczka do kapieli (1g)
+20 Grzebien (1g)
+# Amunicja (wadliwa) 
+8 Papier toaletowy (2g) Naboj gumowy (strzelba) (1g)
+12 Naboj pistoletowy .38” (2g)
+13 Naboj pistoletowy 9mm (3g)
+16 Naboj karabinowt 5.56mm (3g)
+17 Naboj srutowy (3g)
+18 Paczka nabojow pistoletowych .38 (k20 sztuk) (x2g)
+19 Paczka nabojow pistoletowych 9mm (k20 sztuk) (x3g)
+20 Paczka nabojow srutowych (k20 sztuk) (x3g)
+# Aparatura radiowezla 
+18 Granat gazowy (80g) Glosnik (5g) [W]
+20 Mikrofon (3g) [W]
+# Archiwum danych 
+3 Urzadzenie nagrywajace (3g) [W] Kosc pamieci (5g) [W]
+4 Dysk twardy (10g) [W]
+7 Szpula z tasma (decyzja MG)
+12 Teczka z kliszami (decyzja MG)
+14 Karta pamieci (5g) [W]
+15 Plyty (k20 sztuk) (decyzja MG) [W]
+20 Segregator z dokumentami (decyzja MG)
+# Artykul papierniczy 
+1 Teczka z dokumentami (decyzja MG) Mocna teczka (1g)
+2 Nozyczki (2g)
+4 Nozyk (3g)
+5 Olowek (3g)
+7 Papier (k20 arkuszy) (1g/10ark)
+8 Pinezki (pudelko) (3g)
+9 Plastelina (1g)
+10 Szpilki (pudelko) (2g)
+12 Cyrkiel (1g)
+13 Czysty zeszyt (3g)
+14 Dlugopis (3g) [W]
+16 Dlugopis zabawka (3g) [W]
+17 Kalkulator (3g) [W]
+18 Karton (k20 arkuszy) (1g/5szt)
+19 Linijka (1g)
+20 Mala tablica scieralna (2g)
+# Automat publiczny 
+4 Zeszyt czesciowo zapisany (1g) Automat do gier (k20 przedwojennych monet)
+8 Automat hazardowy (k20 przedwojennych monet)
+9 Automatyczny barman (*)
+13 Automatyczny fotograf (zintegrowany aparat fotograficzny) (10g) [W]
+18 ladowarka publiczna (*)
+19 Automatyczny sprzedawca (*)
+20 Bankomat (k20 przedwojennych banknotow)
+# Automatyczny barman Rzuc 1k20: 
+10 Kawa (k20 porcji) (1g/5p)
+15 Bagaz (*) Cappuccino (k20 porcji) (1g/5p)
+20 Cukier (k20 porcji) (1g/5p)
+# Automatyczny sprzedawca 
+4 Plastikowe kubki (k20 sztuk) (1g/10szt) Puszka energy drink (4g) [W]
+6 Puszka napoju gazowanego (3g) [W]
+9 Puszka orzechow solonych (3g) [W]
+12 Tabliczka czekolady (8g)
+17 Batonik (3g)
+18 Paczka gum do zucia (k20 szt) (1g/3szt)
+19 Pudelko papierosow (k20 szt) (1g/szt)
+20 Puszka Coca Coli (10g) [W]
+# Ladowarka publiczna 
+20 Zapalniczka (8g) [W] Akumulator (30g) [UW]
+# Bagaz 
+4 Zywnosc i uzywki
+6 Aluminiowy termos (20g)
+8 Zywnosc i uzywki (*)
+10 Przedwojenne banknoty (k20) (0g)
+11 Konserwy (*)
+13 Laptop (50g) [UW]
+15 Uniwersalny zestaw wtyczek (6g) Ksiazka (*)
+17 Portfel (*)
+20 Przedwojenny bilon (k20) (0g)
+# Barek 
+8 Kieliszek (1g)
+13 Porcja narkotyku (10g)
+15 Pudelko cygar
+17 Z szafy (*) Butelka szampana (10g) [W]
+18 Butelka whisky (10g)
+20 Butelka wina (10g)
+# Biurowa kuchnia 
+5 Butelka wodki (10g) (k20 szt) (2g/szt) Czajnik elektryczny (8g) [W]
+6 Ekspres do kawy (7g) [W]
+8 Filtr wody (*)
+10 Kuchenka mikrofalowa (10g) [W]
+12 Mala zamrazarka (10g) [W]
+14 Paczka cukru (k20 porcji) (1g/5p)
+16 Paczka kawy rozp. (k20 porcji) (1g/5p)
+18 Paczka herbaty (k20 porcji) (1g/10p)
+20 Paczka kawy mielonej (k20 porcji) (1g/5p)
+# Biurowy drobiazg 
+2 Porcelanowy kubek (2g) Artykul papierniczy (*)
+3 Biurowa kuchnia (*)
+4 Biurowy sprzet komputerowy (*)
+5 Dyktafon (15g) [W]
+6 Mapa scienna (*)
+7 Ozdobna ramka na zdjecie (1g)
+8 Paczka papierosow (k20 sztuk) (1g/szt)
+9 Radioodbiornik (15g) [UW]
+10 Tablica korkowa (2g)
+11 Wideofon (1g)
+12 Worki foliowe na smieci (k20 sztuk) (1g/10szt)
+13 Elektroniczna mapa (*)
+14 Gazeta (*)
+15 Golarka elektryczna (15g) [UW]
+16 Kalendarz ozdobny (2g)
+17 Kalkulator (3g) [W]
+18 Kamera reczna (30g) [W]
+19 Lampka biurkowa (10g) [UW]
+20 ladowarka do akumulatorkow (2g) [W]
+# Biurowy mebel 
+3 Zegar (3g) [UW] Ekran (*)
+5 Elektryczny grzejnik (15g) [UW]
+10 Fotel menedzerski (15g)
+12 Krzeslo obrotowe (10g)
+13 Lampka stojaca (10g) [UW]
+14 Listwa halogenowa (10g) [UW]
+15 Mini akwarium (4g)
+17 Stalowa zamykana szafka na akta (15g)
+18 Lustro scienne (5g)
+19 Maly stolik konferencyjny (10g)
+20 Metalowy kosz na smieci (2g)
+# Biurowy sprzet komputerowy 
+2 Monitor (15g) [W]
+3 Mysz / manipulator (3g) [W]
+4 Plyty (k20 sztuk) (decyzja MG) [W]
+6 Rzutnik do komputera (20g) [W]
+7 Skaner (5g) [W]
+8 Skaner reczny (10g) [W]
+9 Zasilacz (3g) [W]
+11 Stylowy wieszak (5g) Drukarka (5g) [W]
+13 Dysk twardy (10g) [W]
+14 Glosniki (3g) [W]
+15 Karta pamieci (5g) [W]
+17 Klawiatura (3g) [W]
+18 Komputer (30g) [UW]
+20 Kserokopiarka (6g) [UW]
+# Bron (uszkodzona) 
+4 Laptop (50g) [UW] Dwururka (50g)
+6 Pompka (6g)
+7 Rewolwer Trzydziestka osemka (S&W) (35g)
+8 Pistolet Colt M1911 A1 (40g)
+9 (50g)
+10 PM H&K MP5 (75g)
+11 Karabin Winchester (40g)
+12 Karabin Springfield (45g)
+13 (60g)
+14 Rewolwer Colt “Peacemaker” (40g)
+15 (55g)
+17 Pistolet Glock
+17 Pistolet Browning HP (45g)
+18 Pistolet Sig Sauer P226 (40g)
+20 Pistolet Beretta (45g)
+44 Rewolwer Magnum
+99 Pistolet Walther P
+# Bron hukowa 
+# Butle z chemikaliami (k20 litrow) 
+4 Elektrolit (1g/l)
+6 Gaz grzewczy (3g/l)
+8 Ropa naftowa (3g/l)
+10 Karabin SKS (65g) Bron hukowa (20g) Acetylen (1g/l)
+12 Alkohol metylowy (1g/l)
+14 Amoniak (1g/l)
+16 Slaba benzyna (3g/l)
+18 Kwas azotowy (3g/l)
+20 Kwas siarkowy (3g/l)
+# Cenna kolekcja 
+4 Woda destylowana (1g/5l) Cenny obraz (10g)
+6 Kolekcja medali (k20 sztuk) (1g/szt)
+8 Kolekcja monet (k20 sztuk) (1g/szt)
+11 Sejf (*)
+13 Srebrna figurka (15g)
+16 Srebrna taca (10g)
+19 Srebrny ozdobny kubek (20g)
+20 Srebrny ozdobny swiecznik (15g)
+# Dehydryzator 
+# Domowa apteczka 
+3 Zlota figurka (50g) Dehydryzator (100g) Bandaz (5g)
+4 Dawka morfiny (15g)
+6 Buteleczka Psychotropow antydepresyjnych (k20 tabletek) (1g/tab) [W]
+7 Buteleczka spirytusu (15g)
+8 Opakowanie lekow na grype
+9 Komplet plastrow (3g) (k20 tabletek) (1g/tab) [W]
+10 Opakowanie lekow na zatrucie
+11 Krem na poparzenia (8g) (k20 tabletek) (1g/tab) [W]
+13 Paczka tabletek przeciwbolowych (k20 tabletek) (5g/tab) (k20 tabletek) (3g/tab)
+14 Butelka ze srodkiem dezynfekujacym (20g) [W]
+16 Komplet: strzykawka i igla (10g)
+18 Opakowanie antybiotykow
+19 Opakowanie aspiryny
+20 Paczka witamin (k20 tab) (1g/5tab) (k20 tabletek) (1g/tab)
+# Domowa kolekcja sztuki 
+5 Pudelko ziol (k20 porcji) (1g/10p) Fabryczna miniatura rzezbiarska (3g)
+9 Grafika za szklem (3g)
+10 Ozdobna filizanka (10g)
+12 Reprodukcja (3g)
+13 Krysztalowa ozdobna patera (3g)
+17 Ozdobna waza (5g)
+20 Ozdobny swiecznik (5g)
+# Domowy sprzet komputerowy 
+2 Laptop (50g) [UW]
+4 Monitor (15g) [W]
+6 Mysz / manipulator (3g) [W]
+7 Okulary 3D (5g)
+8 Plyty (k20 sztuk) (decyzja MG) [W]
+9 Skaner (5g) [W]
+10 Tani obraz (3g) Drukarka (5g) [W]
+12 Dysk twardy (10g) [W]
+14 Glosniki (3g) [W]
+15 Klawiatura (3g) [W]
+17 Karta pamieci (5g) [W]
+18 Komputer (30g) [UW]
+20 Konsola do gier (10g) [W]
+# Domowy sprzet sportowy 
+2 Zasilacz (3g) [W] Deskorolka (3g)
+3 Kij baseballowy (5g)
+4 Kij golfowy (5g)
+5 Maska do nurkowania (10g)
+6 Narty (15g)
+7 Pileczka pingpongowa (3g)
+8 Pileczka baseballowa (3g)
+9 Pilka do koszykowki (10g)
+10 Pilka do pilki noznej (10g)
+11 Pilka do rugby (10g)
+12 Pileczka golfowa (3g)
+13 Pileczka tenisowa (5g)
+14 Rakieta do tenisa stolowego (4g)
+15 Rakieta do tenisa ziemnego (4g)
+16 Rollery (8g)
+17 Rower (30g) [uszkodzony]
+18 Sportowy floret (15g)
+19 Sprzet do wspinaczki (25g)
+20 Sztanga i talerze (8g)
+# Drobiazg domowy 
+2 Worek treningowy (5g) Artykul papierniczy (*)
+3 Audio player spacerowy (10g) [W]
+4 Drobna bizuteria (1 sztuka) (3g)
+5 Dyktafon (15g) [W]
+6 Pamiatkowa figurka z podrozy (1g)
+7 Film(*)
+8 Plyta z muzyka (5g)
+9 Przedwojenne banknoty (k20) (0g)
+10 Przedwojenny bilon (k20) (0g)
+11 Waga domowa (15g)
+12 Wyjatkowy plakat (1g)
+13 Gazeta (*)
+14 Globus (3g)
+15 Igla i nici (5g)
+16 Kamera reczna (30g) [W]
+17 Komiks (12g)
+18 ladowarka do akumulatorkow (2g) [W]
+19 Maskotka (2g)
+20 Odtwarzacz audio z radiem (20g) [W]
+# Drobiazg hobbystyczny 
+2 Zabawka (*) Aparat fotograficzny (30g) [W]
+3 Elektroniczna mapa (*)
+4 Gogle plywackie (5g)
+5 Gra (*)
+6 Imitacja broni palnej (asg) (8g)
+7 Imitacja miecza (mocna) (20g)
+8 Instrument muzyczny (*)
+9 Kask motocyklowy (5g)
+10 Kask rowerowy (3g)
+11 Kolekcja plyt (k20 sztuk) (decyzja MG) [W]
+12 Kolekcjonerski noz (6g)
+13 Kompas (5g)
+14 Reczna kamera (30g) [W]
+15 Wedka i zylka (5g)
+16 Zdalnie sterowany model (20g) [UW]
+17 Krotkofalowka (25g) [UW]
+18 Lornetka (30g) [U]
+19 Luneta (30g) [U]
+20 Porcja narkotyku (10g)
+# Gra 
+4 Skomplikowana gra planszowa (5g)
+6 Szachy (20g)
+8 Talia kart (15g)
+10 Warcaby (15g)
+11 Zestaw radio CB (40g) [UW] Bierki (5g)
+13 Chinczyk (10g)
+16 Domino (10g)
+18 Monopoly (10g)
+20 Scrabble (10g)
+# Instrument muzyczny 
+3 Gitara klasyczna (30g)
+5 Keyboard (20g) [W]
+9 Mikrofon sceniczny (8g) [W]
+14 Zestaw kostek (10g) Bebenek (5g)
+17 Skrzypce (10g)
+19 Flet (10g)
+20 Gitara elektryczna (10g)
+# Dzielo sztuk 
+6 Zestaw perkusyjny (10g) Bogato zdobiony swiecznik (20g)
+7 Bogato zdobiony zyrandol (15g)
+12 Cenny gobelin (20g)
+15 Cenny obraz wspolczesny (20g)
+17 Ozdobna ciezka waza (10g)
+20 Rzezba (20g)
+# Ekran 
+# Ekwipunek policyjny 
+4 Stary obraz (30g) Ekran (5g) Amunicja (wadliwa) (*)
+5 Bron (uszkodzona) (*)
+7 Elektroniczna mapa (*)
+9 Kajdanki (5g)
+11 Kamizelka ochronna (70g)
+12 Maska gazowa (20g) [W]
+14 Tasma zaciskowa (3g)
+16 Palka policyjna (3g)
+17 Krotkofalowka (25g) [UW]
+18 Paralizator elektryczny (100g) [wadliwy]
+20 Mundur straznika / gliniarza (15g)
+# Elektroniczna mapa 
+# Film 
+2 Dokument technologia (cena: x2)
+3 Dramat obyczajowy
+4 Fantastyka, horror
+5 Historia
+6 Akcja
+7 Kabaret
+8 Klasyka (cena: x2)
+9 Komedia
+10 Kryminal
+11 Zestaw komunikatorow (zasieg do 100m) (20g) [UW] Elektroniczna mapa Animowany
+12 Biografia
+13 Dla dzieci
+14 Dokument astronomia
+15 Dokument historia
+16 Dokument militaria (cena: x2)
+17 Dokument podroze
+18 Dokument przyroda
+19 Dokument spoleczny
+20 Dokument sztuka
+# Filtr wody 
+# Gazeta 
+2 Magazyn muzyczny (1g)
+3 Magazyn o glupim hobby (1g)
+4 Magazyn samochodowy (1g)
+5 Magazyn sportowy (1g)
+6 Magazyn techniczny (5g)
+7 Pisemko dla panow (5g)
+8 Pismo dla dzieci (1g)
+9 Skandalizujacy tygodnik (1g)
+10 Tygodnik ekonomiczny (1g)
+11 Romans Filtr wody (50g) Gazeta codzienna (1g)
+12 Gazeta lokalna (2g)
+13 Gazeta telewizyjna (1g)
+14 Krzyzowki (1g)
+15 Magazyn fantastyczny (1g)
+16 Magazyn historyczny (1g)
+17 Magazyn komputerowy (1g)
+18 Magazyn kulturalny (1g)
+19 Magazyn literacki (1g)
+20 Magazyn militarystyczny (3g)
+# Graty piwniczne 
+4 Zurnal (1g) Brezentowa plachta (2g)
+6 Stary rower (30g) [uszkodzony]
+9 Wielki foliowy worek (1g)
+11 Klodka z kluczem (5g)
+13 Narzedzia domowe (*)
+16 Parciany worek (1g)
+18 Puste sloiki (k20 sztuk) (1g/5szt)
+20 Sloik z zapasami (3g) [W]
+# Kamera wziernikowa 
+# Kasa 
+6 Zarowka (*) Kamera wziernikowa 40g Metalowa kasetka i kluczyk (1g)
+10 Przedwojenne banknoty (k20) (0g)
+15 Przedwojenne monety (k20) (0g)
+20 Rolka papieru (1g)
+# Ksiazka Rzuc 1k20: 
+18 Zintegrowany monitor (5g) [W] Beletrystyka (*)
+20 Naukowa (*)
+# Beletrystyka 
+3 Szkolny (*) Album (12g)
+4 Biografia (10g)
+5 Dowcipy (10g)
+7 Dramat (10g)
+9 Dziecieca (5g)
+10 Fantasy (10g)
+11 Gra rpg (5g)
+12 Historyczna (10g)
+14 Horror (5g)
+15 Klasyka (15g)
+16 Komiks (12g)
+17 Kryminal (10g)
+18 Obyczajowa (10g)
+19 Poezja (10g)
+20 Romans (10g)
+# Naukowa 
+2 Sf (10g) Atlas (15g)
+3 Biologia (15g)
+4 Chemia (15g)
+5 Geografia (10g)
+6 Biologia (25g)
+6 Historia (10g)
+7 Jezyk obcy (5g)
+8 Literatura (10g)
+9 Chemia (30g)
+9 Geografia (15g)
+10 Historia (20g)
+11 Historia sztuki (10g)
+12 Ekonomia (5g)
+12 Informatyka (20g)
+13 Jezyk obcy (5g)
+14 Psychologia (10g)
+15 Elektronika (30g)
+15 Robotyka (30g)
+16 Technika (30g)
+17 Mechanika (30g)
+18 Encyklopedia (30g)
+18 Medycyna (30g)
+19 Militaria (20g)
+20 Fizyka (15g)
+20 Prawo (5g)
+# Szkolny 
+6 Turystyka (10g) Atlas (15g)
+9 Biologia (15g)
+12 Chemia (15g)
+15 Geografia (10g)
+18 Historia (10g)
+20 Jezyk obcy (5g)
+# Latarka machajka 
+# Mapa 
+6 Literatura (10g) Latarka machajka (30g) Miasto (w ktorym znalazles te mape) (40g)
+9 Stan (w ktorym znalazles te mape) gospodarczo geograficzna (40g)
+11 Stan (w ktorym znalazles te mape) samochodowa (40g)
+13 swiat geograficzna (10g)
+15 USA gospodarczo geograficzna (20g)
+17 swiat polityczna (10g)
+20 USA administracyjna (20g)
+# Medskaner 
+# Medykamenty 
+2 USA samochodowa (40g) Medskaner Antybiotyki (20 tabletek) (5g/tab)
+3 Odczynniki laboratoryjne (20g) [W]
+4 Paczka lekow na zatrucie (k20 tab.) (1g/tab) [W]
+5 Opatrunek (5g)
+6 Paczka witamin (k20 tabletek) (1g/5tab)
+7 Silny srodek usypiajacy
+8 Butelka ze srodkiem antyseptycznym (20g) [W] (wymaga strzykawki) (10g) [W]
+9 Silny srodek znieczulajacy
+10 Komplet: strzykawka i igla (10g) (wymaga strzykawki) (10g) [W]
+11 Sloiczek kremu na oparzenia (15g)
+12 Antyseptyk w aerozolu (25g) [W]
+13 Aspiryna (20 tabletek) (1g/tab)
+14 Dawka morfiny (15g)
+15 Buteleczka psychotropow
+16 Paczka tab. przeciwbolowych (k20 tab.) (3g/tab) antydepresyjnych (k20 tabletek) (1g/tab) [W]
+17 Butelka spirytusu (15g)
+18 Hermetyczny pojemnik (5g)
+19 Kroplowka z glukoza (5g)
+20 Kroplowka z plynem wieloelektrolitowym (5g)
+# Narzedzia domowe 
+2 Papier scierny (2g)
+3 Pilka do metalu (10g)
+4 Pudeleczko z wiertlami (5g)
+5 Pudelko z gwozdziami (5g)
+6 Pudelko ze srubkami (5g)
+7 Sloik mocnego kleju (10g) [W]
+8 srubokret (2g)
+9 Wiertarka (20g) [UW]
+10 Zwoj drutu (5g)
+11 Tubka zelu antyseptycznego (20g) [W] Klucz francuski (15g)
+12 Klucz nasadowy (5g)
+13 Klodka i klucz (5g)
+14 Kombinerki (10g)
+15 Komplet kluczy (8g)
+16 Krazek tasmy izolacyjnej (5g) [W]
+17 Latarka (10g) [UW]
+18 Mlotek (8g)
+19 Mocne rekawice robocze (5g)
+20 Nozyk do strugania (5g)
+# Rzadsze narzedzia domowe 
+4 Pila do drewna (6g)
+7 Poziomica (2g)
+10 Puszka smaru (10g)
+12 Rzadsze narzedzia domowe (*) Hebel (4g)
+14 Lewarek samochodowy (10g)
+17 Lutownica i lut (30g) [UW]
+20 Pilnik (3g)
+# Narzedzia warsztatowe 
+2 Siekiera (10g) Akcesoria remontowe (*)
+3 Dmuchawa (5g)
+4 Elektrody spawalnicze (k20 sztuk) (3g/szt)
+5 Kompresor (15g) [UW]
+6 Prostownik (10g) [W]
+7 Puszka lakieru w losowym kolorze (5g) [W]
+8 Smarownica (8g)
+9 Spawarka (40g) [UW]
+10 Sprezarka (15g) [UW]
+11 Szlifierka (15g) [UW]
+12 Wkretarka (1g) [UW]
+13 Komputerowe urzadzenie diagnostyczne (20g) [W]
+14 Kowadlo (3g)
+15 Mocne rekawice robocze (5g)
+16 Narzedzia domowe (*)
+17 Nitownica i nity (40g) [UW]
+18 Palnik acetylenowo tlenowy (20g) [UW]
+19 Pilarka (10g) [W]
+20 Pompa (10g) [UW]
+# Niespodzianka z wraku 
+2 Elektroniczna mapa (*)
+3 Klucz do kol (3g)
+5 Lewarek (10g)
+6 Narzedzia domowe (*)
+7 Paliwo w baku (k20 litrow) (3g/l)
+8 Prostownik (10g) [W]
+9 Stalowa linka holownicza z hakiem (10g)
+10 Zakupy (*)
+11 Zwoj kabla (3g) Akumulator (30g) [UW]
+13 Alarm samochodowy (10g) [W]
+14 Bagaz (*)
+15 Butelka oleju silnikowego (6g)
+16 Car audio (15g) [W]
+17 CB radio (40g) [UW]
+18 Domowy sprzet sportowy (*)
+19 Drobiazg domowy (*)
+20 Drobiazg hobbystyczny (*)
+# Ozdoba architektoniczna 
+6 Zwloki (*) Bogato rzezbiona rozeta (5g)
+13 Plyta z plaskorzezba (10g)
+18 Rzezba wolnostojaca (15g)
+20 Rzezbka ozdobna (10g)
+# Ozdobne akcesoria koscielne 
+2 Witraz (5g) Biblia (20g)
+5 Bogate szaty liturgiczne (15g)
+7 Bogato zdobiona mala szafka (15g)
+10 Bogato zdobiony zyrandol (10g)
+13 swieca gromnica (5g)
+16 Bogato zdobiona monstrancja (15g)
+19 Bogato zdobiony krzyz (15g)
+20 Bogato zdobiony swiecznik (15g)
+# Rekwizyt teatralny 
+4 Zdobiona skarbonka z monetami (k20) (6g) Element scenografii kon na biegunach (6g)
+6 Element scenografii sztuczne slonce (3g)
+8 Kostium diabla (5g)
+10 Kostium krola (6g)
+12 Kostium panicza (5g)
+14 Kostium dawny stroj wieczorowy (20g)
+16 Kostium aniola (5g)
+18 Kostium blazna (5g)
+20 Kostium damy dworu (10g)
+# Sejf 
+6 Kostium rycerza (6g) Bron (uszkodzona) (*)
+8 Przedwojenne banknoty (k20 plikow) (0g)
+15 Cenna kolekcja (*)
+20 Dzielo sztuki (stary obraz) (*)
+# Sprzet gasniczy 
+3 “Wazne” dokumenty (decyzja MG) Alarm czujnik dymu (1g) [W]
+4 Alarm lampa ostrzegawcza (3g) [W]
+5 Alarm syrena (10g) [W]
+6 Duza gasnica pianowa (10g) [W]
+10 Duza gasnica sniegowa (10g) [W]
+14 Siekiera strazacka (20g)
+15 Mala gasnica pianowa (6g) [W]
+20 Mala gasnica sniegowa (16g) [W]
+# Sprzet medyczny 
+2 Zwoj weza strazackiego (3g) Cisnieniomierz (5g)
+3 Fartuch (5g)
+4 Kaftan bezpieczenstwa (10g)
+5 Komplet nowej bielizny (3g)
+6 Kule (5g)
+7 Lampa chirurgiczna (10g) [W]
+8 Maseczka (2g)
+9 Nosze (5g)
+10 Rekawiczki lateksowe (50szt) (10g)
+11 Pila chirurgiczna (12g)
+12 Woda destylowana (k20 litrow) (1g/5l)
+13 Rehabilitacyjny stepper (10g)
+14 Rzadszy sprzet medyczny (*)
+15 Skalpel (5g)
+16 Stetoskop (8g)
+17 Szklo laboratoryjne (10g)
+18 Termometr (5g)
+19 Waga (15g)
+20 Wozek inwalidzki (10g)
+# Sprzet sceniczny 
+7 Zestaw do kroplowki (12g) [UW] Duzy glosnik sceniczny (8g) [UW]
+8 Dymiarka (6g) [W]
+9 Dzialko do konfetti (6g)
+11 Konsola dzwiekowca (10g) [W]
+15 Megafon (10g)
+19 Mikrofon sceniczny (8g) [W]
+20 Rama z oswietleniem scenicznym (lampy, halogeny, stroboskopy) (20g) [W]
+# Sprzet sportowy 
+2 Reflektor laserowy (20g) [W] Buty korkowe (10g)
+3 Gwizdek (2g)
+5 Helm ochronny do rugby (6g)
+6 Pletwy (4g)
+7 Pompka (3g)
+8 Rakieta tenisowa (4g)
+9 Rekawice bramkarskie (3g)
+10 Siatka bramkowa (5g)
+11 Siatka do siatkowki (5g)
+12 Stroj rugby (15g)
+13 Kij baseballowy (5g)
+14 Kij golfowy (5g)
+15 Ochraniacze (5g)
+16 Pileczka baseballowa (3g)
+17 Pileczka golfowa (3g)
+18 Pilka do pilki noznej (10g)
+19 Pilka do koszykowki (10g)
+20 Pilka tenisowa (5g)
+# srodki czystosci 
+5 Sztanga i talerze do podnoszenia ciezarow (8g) Mydlo w plynie (3g)
+7 Plyn do mycia naczyn (3g) [W]
+9 Proszek do czyszczenia (4g) [W]
+10 Proszek do prania (5g)
+13 Rozpuszczalnik (4g)
+15 Silny plyn do czyszczenia (5g)
+17 srodek do czyszczenia w sprayu (3g) [W]
+20 Zmywacz (4g) [W]
+# Tasma Permo 
+# Tester Hopkinsa 
+# Towar ze sklepiku 
+2 Zracy plyn do czyszczenia ceramiki (5g) [W] Tasma Permo (10g) Tester Hopkinsa (25g) Butelka wina (10g)
+4 Butelka wodki (10g)
+5 Gazeta (*)
+6 Jednorazowe porcje kawy rozpuszczalnej (k20 porcji) (1g/5p)
+8 Mapa (*)
+9 Paczka gum do zucia (k20szt) (1g/3szt)
+10 Paczka kawy (k20 porcji) (1g/5p)
+11 Paczka papierosow (k20 sztuk) (1g/szt)
+12 Paczka tab. przeciwbolowych (k20 tabletek) (3g/szt)
+13 Puszka energy drink (4g) [W]
+14 Mocna reklamowka (1g)
+15 Zywnosc i uzywki Butelki i puszki (*)
+16 Puszka piwa (5g) [W]
+18 Tabliczka czekolady (8g)
+20 Zapalniczka (8g)
+# Towar ze straganu 
+3 Zywnosc i uzywki (*) Kostium diabla (3g)
+4 Lizak (3g)
+6 Maska halloweenowa (2g)
+7 Opakowanie balonow (k20szt) (1g/10szt)
+8 Paczka wafli (3g)
+9 Zabawkowa bron (1g)
+10 Paczka cukierkow (5g)
+12 Paczka orzechow (4g) [W]
+13 Opakowanie zimnych ogni (2g) [W]
+14 Paczka korkow / kapiszonow (2g) [W]
+16 Peruka imprezowa (3g)
+18 Waga sklepowa (15g)
+20 Zabawka (*)
+# Urzadzenie kuchenne 
+5 Kuchenka mikrofalowa (10g) [W]
+6 Mala lodowka (10g) [UW]
+7 Mikser (2g) [W]
+8 Ostrzalka do nozy (5g)
+9 Toster (2g)
+10 Zamrazarka przenosna (10g) [UW]
+11 Paczka bakalii (4g) [W] Czajnik elektryczny (8g) [W]
+13 Ekspres do kawy (7g) [W]
+14 Filtr wody (*) [uszkodzony]
+16 Grill elektryczny (5g) [UW]
+18 Grzalka (3g)
+19 Iskrownik (3g) [W]
+20 Kuchenka elektryczna (10g) [UW]
+# Wyposazenie domowe 
+2 Krajalnica do chleba (2g) Adapter (20g) [UW]
+3 Bojler elektryczny (10g) [UW]
+4 Odtwarzacz audio z radiem (20g) [W]
+5 Odtwarzacz video (25g) [W]
+6 Pralka (15g) [UW]
+7 Telewizor (3g) [W]
+8 Waga (15g)
+9 Wentylator (5g) [U]
+10 Wideofon (1g)
+11 Wzmacniacz (10g) [W]
+12 Dobry zamek w drzwiach plus klucz (3g)
+13 Ekran (*)
+14 Elektryczny grzejnik (15g) [W]
+15 Lampka biurkowa (10g) [UW]
+16 Lampka stojaca (10g) [UW]
+17 Lustro scienne (5g)
+18 Mini glosnik (5g) [UW]
+19 Odbiornik satelitarny (3g)
+20 Odkurzacz (10g) [UW]
+# Wyposazenie klubowe 
+6 Zyrandol (3g) Automat do gier (k20 przedwojennych monet)
+8 Automat hazardowy (k20 przedwojennych monet)
+10 Zestaw kregli (10g)
+12 Stol bilardowy (20g)
+14 Stol do ruletki (20g)
+17 Kij bilardowy (3g)
+19 Kula do kregli (5g)
+20 Kule bilardowe (k20szt) (2g/szt)
+# Z szafy 
+2 Reczny wykrywacz metalu (15g) Z szafy akcesoria (*)
+3 Bluzka (ustal Rodzaj) (4g)
+4 Buty (ustal Rodzaj) (10g)
+6 Buty zimowe (ustal Rodzaj) (10g)
+7 Z szafy dodatki (*)
+8 Dres (ustal Rodzaj) (4g)
+9 Garnitur (30g)
+11 Kurtka wojskowa (20g)
+12 Kurtka zimowa (15g)
+13 Mocne spodnie (ustal Rodzaj) (15g)
+14 Plaszcz (ustal Rodzaj) (8g)
+15 Skorzana kurtka (20g)
+17 Skorzane spodnie (20g)
+18 Spodnie (ustal Rodzaj) (8g)
+19 Spodnie wojskowe (15g)
+20 Suknia wieczorowa (20g)
+# Z szafy dodatki 
+4 Rekawice zimowe (4g)
+5 Szal (1g)
+7 Szelki (2g)
+10 Pasta do impregnacji butow (5g)
+11 Kombinezon do sportow zimowych (15g)
+14 Sweter (8g) Czapka zimowa (5g)
+16 Kapelusz (5g)
+17 Krawat (1g)
+19 Okulary przeciwsloneczne (5g)
+20 Pasek do spodni (5g)
+# Z szafy akcesoria 
+4 Peleryna przeciwdeszczowa (15g) Choinka swiateczna (5g)
+7 Koc (5g)
+8 Mocna torba (6g)
+9 Namiot (12g)
+12 Ozdobna koldra jak nowa (3g)
+13 Plecak (8g)
+16 Poduszka jak nowa (3g)
+17 Skorzana torba (5g)
+19 Szczotka do czyszczenia ubran (1g)
+20 spiwor (6g)
+20 Sweter (8g)
+# Zabawka 
+2 Zaslona, firana (1g) Domek dla lalek (4g)
+3 Hamak (6g)
+4 Imitacja broni palnej (6g)
+5 Klocki (3g)
+6 Puzzle (5g)
+7 Skakanka (1g)
+8 Tarcza i rzutki (5g)
+9 Wozek dzieciecy (5g)
+10 Wskaznik laserowy (2g) [W]
+11 Zabawkowa bron (1g)
+12 Zdalnie sterowany model jezdzacy (20g) [UW]
+13 Kredki (5g)
+14 Lalka (2g)
+15 Maska halloweenowa (2g)
+16 Maskotka (2g)
+17 Maskotka na baterie (4g)
+18 Model (3g)
+19 Pilka dziecieca (2g)
+20 Piszczalka (2g)
+# Zabezpieczenie elektroniczne 
+8 Zdalnie sterowany model latajacy (30g) [UW] Czujnik ruchu (10g) [W]
+12 Fotokomorka (3g)
+16 Glosnik alarmowy (10g) [W]
+20 Kamera (10g) [W]
+# Zakupy 
+3 Mikrofon (3g) [W] Akcesoria kuchenne (*)
+5 Akcesoria toaletowe (*)
+7 Artykul papierniczy (*)
+8 Domowa apteczka (*)
+11 Drobiazg hobbystyczny (*)
+12 Gazeta (*)
+13 Ksiazka (*)
+16 srodki czystosci (*)
+17 Towar ze sklepiku (*)
+20 Zabawka (*)
+# Zdalnie sterowany model 
+# Zestaw do charakteryzacji 
+# Zwloki 
+2 Zywnosc i uzywki (*) Zdalnie sterowany model (30g) Zestaw do charakteryzacji (20g) Bagaz (*) Rzuc 1k20:
+3 Bizuteria (*)
+4 Dobre buty (10g)
+6 Kluczyki do samochodu (0g)
+7 Mini odtwarzacz audio i sluchawki (10g) [W]
+9 Okulary (3g)
+10 Paczka papierosow (k20szt) (1g/szt)
+11 Parasol (6g)
+12 Plecak (8g)
+15 Skorzana torba (5g)
+17 Telefon osobisty (1g)
+18 Zakupy (*)
+19 Zapalniczka (8g)
+20 Zegarek (8g)
+# Bizuteria 
+4 Pasek (5g) Bransoletka (3g)
+12 Kolczyki (3g)
+14 Obraczka (3g)
+16 Pierscionek (3g)
+18 Spinka (3g)
+20 Sygnet (3g)
+# Zarowka 
+19 Wisiorek (3g) Zwykla (3g)
+20 Jarzeniowka (3g)
+# Zywnosc i uzywki 
+4 Halogenowa (4g) Butelki i puszki (*)
+7 Konserwy (*)
+10 Paczka cukru (k20 porcji) (1g/5p)
+12 Paczka maki (4g)
+14 Paczka soli (k20 porcji) (1g/5p)
+16 Slodycze (*)
+18 Torebka pieprzu (2g)
+20 Torebka przypraw (2g)
+# Butelki i puszki 
+3 Trwala zywnosc (*) Butelka denaturatu (3g)
+5 Butelka likieru (6g) [W]
+7 Butelka nie gazowanej wody (1g) [W]
+11 Butelka octu (3g) [W]
+12 Butelka oleju (3g) [W]
+14 Butelka piwa (5g) [W]
+16 Butelka spirytusu (12g)
+18 Butelka whisky (10g)
+20 Butelka wina (10g)
+# Slodycze 
+3 Butelka wodki (10g) Batonik (3g)
+5 Chipsy (2g)
+7 Lizak (3g)
+8 Paczka gum do zucia (k20szt) (1g/3szt)
+9 Paczka herbatnikow (4g)
+11 Paczka kawy (k20 porcji) (1g/5p)
+12 Paczka landrynek (5g)
+13 Paczka papierosow (k20szt) (1g/szt)
+14 Paczka wafli (3g)
+15 Pudelko herbaty (k20 porcji) (1g/10p)
+16 Puszka energy drink (4g) [W]
+17 Puszka piwa (5g) [W]
+18 Slodzik (3g)
+19 Sloik marmolady (5g) [W]
+# Konserwy 
+6 Sloik suchego napoju (6g) Konserwa owoce (4g) [W]
+10 konserwa smalec (6g)
+15 Konserwa warzywa (4g) [W]
+20 Konserwa miesna (5g) [W]
+# Trwala zywnosc 
+3 Konserwa rybna (4g) [W] Danie w proszku (4g)
+5 Paczka fasoli (6g)
+7 Paczka kaszy (6g)
+9 Paczka kukurydzy suszonej (6g)
+11 Paczka makaronu (6g)
+13 Paczka ryzu (6g)
+14 Paczka sucharkow (5g)
+16 Paczka suszonych grzybow (3g)
+18 Platki kukurydziane (4g)
+20 Suche pieczywo (5g)

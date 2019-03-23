@@ -115,6 +115,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Source\FindCatalog.cpp" />
+    <ClCompile Include="Source\main.cpp" />
+    <ClCompile Include="Source\Tokenizer.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Include\FindCatalog.hpp" />
+    <ClInclude Include="Include\Tokenizer.hpp" />
+    <ClInclude Include="Source\Types.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
